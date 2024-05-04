@@ -6,5 +6,5 @@
   "prettier.printWidth": 60,
   "editor.fontSize": 22,
   "terminal.integrated.fontSize": 22,
-  "editor.minimap.enabled": false
+  "git.untrackedChanges": "hidden"
 }

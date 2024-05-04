@@ -1,5 +1,7 @@
 {
   "author": "Devbites/Devstyle & Tomasz Ducin",
   "private": true,
-  "type": "module"
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
 }

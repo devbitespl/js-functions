@@ -1,5 +1,5 @@
-// const db = require("./db.json");
-import db from "./db.json" with { type: "json" };
+const db = require("./db.json");
+// import db from "./db.json" with { type: "json" };
 
 export const {
   benefits,
